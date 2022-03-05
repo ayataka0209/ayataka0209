@@ -5,6 +5,8 @@ from tkinter import StringVar, ttk
 
 #github test
 
+
+
 main = tk.Tk()
 main.title('気温アラート ― 登録地点選択')
 main.geometry('578x130')
