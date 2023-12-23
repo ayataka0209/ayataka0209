@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayataka0209
+- 👋 Hi, I’m @Ayataka0209
 - 👀 I’m interested in ... Playing video games
 - 🌱 I’m currently learning ... Python & C#
 - 📫 How to reach me ... ayaha0209@gmail.com
